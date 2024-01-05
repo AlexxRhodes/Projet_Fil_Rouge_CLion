@@ -1,7 +1,9 @@
+cm
 centimetre
 centimetres
 centimètre
 centimètres
+m
 metre
 metres
 mètre
